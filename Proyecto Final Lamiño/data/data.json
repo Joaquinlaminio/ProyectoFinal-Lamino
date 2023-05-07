@@ -1,0 +1,58 @@
+[
+   {
+      "id": "Reme",
+      "name": "Remera Azul",
+      "precio": 2000,
+      "talle": "XL, M, S",
+      "descripcion": "Remera Azul"
+   },
+   {
+      "id": "Reme2",
+      "name": "Remera Negra",
+      "precio": 1000,
+      "talle": "XL, M, S",
+      "descripcion": "Remera Negra"
+   },
+   {
+      "id": "Reme3",
+      "name": "Remera Gris",
+      "precio": 18000,
+      "talle": "XL, M, S",
+      "descripcion": "Remera Gris"
+   },
+   {
+      "id": "Reme4",
+      "name": "Remera Blanca",
+      "precio": 2200,
+      "talle": "XL, M, S",
+      "descripcion": "Remera Blanca"
+   },
+   {
+      "id": "zapa",
+      "name": "Zapatillas Verdes",
+      "precio": 22000,
+      "talle": "44, 39, 40",
+      "descripcion": "Zapatillas Verdes"
+   },
+   {
+      "id": "zapa2",
+      "name": "Zapatillas Negras",
+      "precio": 21000,
+      "talle": "44, 39, 40",
+      "descripcion": "Zapatillas Negras"
+   },
+   {
+      "id": "zapa3",
+      "name": "Zapatillas Azules",
+      "precio": 19000,
+      "talle": "44, 39, 40",
+      "descripcion": "Zapatillas Azules"
+   },
+   {
+      "id": "zapa4",
+      "name": "Zapatillas Amarillas",
+      "precio": 18000,
+      "talle": "44, 39, 40",
+      "descripcion": "Zapatillas Amarillas"
+   }
+]
